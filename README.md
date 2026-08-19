@@ -19,4 +19,8 @@
 3. CDSS 사용 예
 의료진의 임상적 판단에 따라서 현재 당뇨병이나 당뇨 전단계 소견 등 필요한 약물이나 정밀 검사 등을 권고하는 등 정기 검진 및 일반 건강 관리(식단/운동) 수준으로 가이드 라인을 제시할 수 있는 임상결정보조시스템으로써의 사용성을 보여주는 예시임
 
+<img width="1208" height="1096" alt="image" src="https://github.com/user-attachments/assets/f29a594d-48d4-4ca1-b9dd-ab39e63a56f0" />
+
+
+
 - 개발자: KH
